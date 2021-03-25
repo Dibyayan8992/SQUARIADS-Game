@@ -1,1 +1,3 @@
-# SQUARIADS-Game
+# SQUARIADS Game
+
+# Created By Dibyayan Kar
